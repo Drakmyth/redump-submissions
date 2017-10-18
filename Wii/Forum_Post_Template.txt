@@ -3,10 +3,10 @@
 [b]Game Title:[/b] 
 [b]Region:[/b] Europe / USA / Japan / UK / Scandinavia / Australia
 [b]Languages:[/b] English, French, Spanish
-[b]Language Select:[/b] Language select via BIOS system settings / Language select screen at startup
+[b]Language Select:[/b] BIOS / In-Game
 [b]Disc Serial:[/b] 
 [b]Disc Model:[/b] 
-[b]Edition:[/b] Original / Demo / Starter Pack / Nintendo Selects
+[b]Edition:[/b] Original / Demo / Starter Pack / Nintendo Selects / Promo / Player's Choice
 [b]Case Barcode:[/b] 
 [b]Case Barcode Extension:[/b] 
 [b]Case ISBN:[/b] 
@@ -18,10 +18,10 @@
 
 [b]Mastering Code (back):[/b] 
 [b]Mastering SID Code (back):[/b] IFPI XXXX
-[b]Additional Mastering Code (back):[/b] None / MXSX
+[b]Mastering Toolstamp (back):[/b] None / MXSX
 [b]Mould SID Code (back):[/b] IFPI XXXX
-[b]Additional Mould Code (back):[/b] PDSC.CA / PDMC.CA
-[b]Additional Mould Text (back):[/b] None / MADE IN USA
+[b]Additional Mould Code (back):[/b] None / PDSC.CA / PDMC.CA
+[b]Additional Mould Text (back):[/b] None / MADE IN USA / MADE IN JAPAN
 [b]Mould SID Code (front):[/b] IFPI XXXX
 [b]Additional Mould Text (front):[/b] None
 
