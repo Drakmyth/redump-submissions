@@ -1,0 +1,33 @@
+[b]Game Information:[/b]
+
+[b]Game Title:[/b] 
+[b]Region:[/b] Europe / USA / Japan / UK / Scandinavia / Australia
+[b]Languages:[/b] English, French, Spanish
+[b]Language Select:[/b] Language select via BIOS system settings / Language select screen at startup
+[b]Disc Serial:[/b] 
+[b]Disc Model:[/b] 
+[b]Edition:[/b] Original / Demo / Starter Pack / Nintendo Selects
+[b]Case Barcode:[/b] 
+[b]Case Barcode Extension:[/b] 
+[b]Case ISBN:[/b] 
+[b]Case Serial:[/b] 
+[b]Case Part:[/b] 
+[b]Size:[/b] 1.459.978.240
+
+[b]Ring Information:[/b]
+
+[b]Mastering Code (back):[/b] 
+[b]Mastering SID Code (back):[/b] IFPI XXXX
+[b]Additional Mastering Code (back):[/b] None / MXSX
+[b]Mould SID Code (back):[/b] IFPI XXXX
+[b]Additional Mould Code (back):[/b] PDSC.CA / PDMC.CA
+[b]Additional Mould Text (back):[/b] None / MADE IN USA
+[b]Mould SID Code (front):[/b] IFPI XXXX
+[b]Additional Mould Text (front):[/b] None
+
+[b]CleanRip Info:[/b]
+[quote]
+Note: paste the contents of the CleanRip <GAMEID>-dumpinfo.txt here.
+[/quote]
+
+[b]BCA:[/b] Note: insert GitHub commit link to <GAMEID>.bca here.
