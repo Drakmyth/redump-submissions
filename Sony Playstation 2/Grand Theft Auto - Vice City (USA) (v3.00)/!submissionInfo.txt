@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Grand Theft Auto: Vice City
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: CLUS 20552GH
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 10425 27300 1
+	EXE/Build Date: 2004-01-16
+	Comments:
+
+[T:ISN] SLUS-20552
+[T:VOL] VICE_CITY
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 3.00
+	Edition/Release: Greatest Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 34 30 31 32 30 31 34 30  33 31 32 30 30 24 30 30   4012014031200$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4698767360
+	CRC32: 7d2bfcf4
+	MD5: a7e51117609b98673851ef9abc2fd6f3
+	SHA1: 012f445ec5aced1b17132ac4e99b422bb7e19f99

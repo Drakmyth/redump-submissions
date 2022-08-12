@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Eragon
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21322
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 0 20626 72436 4
+	EXE/Build Date: 2006-06-15
+	Comments:
+
+[T:ISN] SLUS-21322
+[T:VOL] ERAGON
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 30 36 31 39 31 33 31  33 34 33 30 30 24 30 30   6061913134300$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 2764963840
+	CRC32: de027d49
+	MD5: 0a76348186c63414be008d43b0a50e9f
+	SHA1: 6f6fdf68069155411e53ea6b82e1d5e2bf38ba8b

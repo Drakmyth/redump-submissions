@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Dr. Muto
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 20458
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 0 31719 26861 0
+	EXE/Build Date: 2002-10-06
+	Comments:
+
+[T:ISN] SLUS-20458
+[T:VOL] MUTO
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 31 30 30 37 30 30 30  30 30 30 30 30 24 30 30   2100700000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4113268736
+	CRC32: 6771ed9c
+	MD5: 4db89cd7034a94ec76748d78cb86854f
+	SHA1: 2045eb2be3e80357f5d62afe53dd0433cebdab96

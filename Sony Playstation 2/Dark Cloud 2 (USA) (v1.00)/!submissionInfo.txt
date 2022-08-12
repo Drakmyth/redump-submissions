@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Dark Cloud 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SCUS 97213
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 11719 72132 1
+	EXE/Build Date: 2003-01-10
+	Comments:
+
+[T:ISN] SCUS-97213
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 30 31 31 30 31 37 30  38 32 31 30 30 24 30 30   3011017082100$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4437737472
+	CRC32: dea267ed
+	MD5: fd484a27771980614b9e86f760f15c93
+	SHA1: 7653806e4cd8acdd694a628ef542587ba45de12d

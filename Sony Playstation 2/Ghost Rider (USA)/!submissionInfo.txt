@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Ghost Rider
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21306
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 10425 27973 7
+	EXE/Build Date: 2006-12-18
+	Comments:
+
+[T:ISN] SLUS-21306
+[T:VOL] SLUS_21306
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 31 32 31 39 30 39 31  35 30 30 30 30 24 30 30   6121909150000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 2637594624
+	CRC32: 41798329
+	MD5: ca98880e7f298197a02b1435bb5876ae
+	SHA1: b2d3b644361ca6c67741894689bae4930ca3c86b
