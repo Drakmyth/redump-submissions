@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Final Fantasy VII
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 3
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SCUS-94163
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 11719 41632 6
+	EXE/Build Date: 1997-08-04
+	Error Count: 0
+	Comments:
+
+[T:ISN] SCUS-94165
+[T:VOL] FINALFANTASY7
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+EDC:
+	EDC: Yes
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 30 38 30 35 30 31 30  37 34 31 30 30 24 31 39   7080501074100$19
+0340 : 39 37 30 38 30 35 30 31  30 37 34 31 30 30 24 30   97080501074100$0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: No
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="FINALFANTASY7_D3.bin" size="659561952" crc="1c27b277" md5="eac916b42d5c24f951c8dec2f13a63de" sha1="0d9614fcd1288bbff2c53e690c6f626d3ac28fd0" />
+
+	Cuesheet:
+
+FILE "FINALFANTASY7_D3.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: 2

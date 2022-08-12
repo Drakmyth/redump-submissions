@@ -1,0 +1,62 @@
+Common Disc Info:
+	Title: Ape Escape
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SCUS-94423
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 11719 44232 5
+	EXE/Build Date: 1999-05-22
+	Error Count: 0
+	Comments:
+
+[T:ISN] SCUS-94423
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Greatest Hits
+
+EDC:
+	EDC: No
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 39 30 35 32 32 30 30 30  30 30 30 30 30 24 30 30   9052200000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: Yes
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="APE_ESCAPE.bin" size="432238800" crc="c6f455bc" md5="de4e7ab78c08bd03712e83c14d4cf642" sha1="466cce4bcd6992f57227abd270323bcdad2fb7fc" />
+
+	Cuesheet:
+
+FILE "APE_ESCAPE.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: 2

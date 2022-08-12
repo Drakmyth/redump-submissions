@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Chrono Cross
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 1
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SLUS-01041
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 6 62248 90008 7
+	EXE/Build Date: 2000-04-18
+	Error Count: 0
+	Comments:
+
+[T:ISN] SLUS-01041
+[T:VOL] CHRONOCROSS
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+EDC:
+	EDC: Yes
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 30 30 30                000
+0330 : 30 30 34 31 38 31 32 33  35 30 30 30 30 00 30 30   0041812350000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: No
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="CHRONOCROSS_D1.bin" size="736651104" crc="a07898cc" md5="3b29ee931df29f51ecf0817f30e103d7" sha1="91ce7726d264111c068a0bee89784f6ebd42ac54" />
+
+	Cuesheet:
+
+FILE "CHRONOCROSS_D1.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -647

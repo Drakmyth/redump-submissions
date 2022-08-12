@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Digimon World 3
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SLUS-01436
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 0 45557 18004 1
+	EXE/Build Date: 2002-04-21
+	Error Count: 0
+	Comments:
+
+[T:ISN] SLUS-01436
+[T:VOL] DMW3
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+EDC:
+	EDC: Yes
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 32 30 34 32 31 30 30 30  30 30 30 30 30 24 30 30   2042100000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: No
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="DMW3.bin" size="647526768" crc="e3d73a16" md5="20370072f9309828a33916b44af059d4" sha1="f0b022f9be53cbce14640abd8f01beaadcb35208" />
+
+	Cuesheet:
+
+FILE "DMW3.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -647

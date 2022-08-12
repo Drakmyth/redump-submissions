@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Dragon Ball GT: Final Bout
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SLUS-00493
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 42725 25632 3
+	EXE/Build Date: 1997-09-16
+	Error Count: 0
+	Comments:
+
+[T:ISN] SLUS-00493
+[T:VOL] DRAGON_BALL_FB
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+EDC:
+	EDC: Yes
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 30 39 32 36 31 35 30  30 30 30 30 30 00 30 30   7092615000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: No
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="DRAGON_BALL_FB.bin" size="158811744" crc="24433280" md5="2f869f926514278b72ffbd671e69b9f7" sha1="8a2373f133788256cba64a1a0ba9fbb4b4667f71" />
+
+	Cuesheet:
+
+FILE "DRAGON_BALL_FB.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12

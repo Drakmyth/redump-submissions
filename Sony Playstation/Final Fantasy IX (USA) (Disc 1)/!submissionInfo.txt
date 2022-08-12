@@ -1,0 +1,62 @@
+Common Disc Info:
+	Title: Final Fantasy IX
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 1
+	Disc Title: 
+	System: Sony PlayStation
+	Media Type: CD-ROM
+	Category: Games
+	Region: USA
+	Languages: English
+	Disc Serial: SLUS-01251
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
+		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
+		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 6 62248 90010 0
+	EXE/Build Date: 2000-09-28
+	Error Count: 0
+	Comments:
+
+[T:ISN] SLUS-01251
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+EDC:
+	EDC: Yes
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 30 30 30                000
+0330 : 30 30 39 32 38 31 32 34  35 30 30 30 30 24 30 30   0092812450000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Anti-modchip: No
+	LibCrypt: No
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="FF9_D1.bin" size="740715360" crc="49521342" md5="dfe70b9dbdabf6b80c27d244a3b172df" sha1="4bbd0132b25ee1cc436b45f2a665a21db0d6e9b4" />
+
+	Cuesheet:
+
+FILE "FF9_D1.bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -647
