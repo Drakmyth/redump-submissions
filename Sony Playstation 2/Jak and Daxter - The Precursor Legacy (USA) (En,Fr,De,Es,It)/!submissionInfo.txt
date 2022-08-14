@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Jak and Daxter: The Precursor Legacy
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English, French, German, Spanish, Italian
+	Language Selection Via: Options menu
+	Disc Serial: SCUS 97124
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-000995A1	2
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+	Barcode: 7 11719 71242 8
+	EXE/Build Date: 2001-10-30
+	Comments:
+
+[T:ISN] SCUS-97124
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 31 31 30 33 31 31 37 31  34 32 38 30 30 24 30 30   1103117142800$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1460535296
+	CRC32: d2fe8c79
+	MD5: 87bab4d563a73c3d61a12394f6997779
+	SHA1: 0db5976cdf9ea188bd64d8efdb4de095c38ea65f
