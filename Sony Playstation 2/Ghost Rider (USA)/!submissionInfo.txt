@@ -12,9 +12,9 @@ Common Disc Info:
 	Disc Serial: SLUS 21306
 
 	Ringcode Information:
-		Data Side Mastering Code (laser branded/etched): (REQUIRED, IF EXISTS)
-		Data Side Mastering SID Code: (REQUIRED, IF EXISTS)
-		Data Side Toolstamp or Mastering Code (engraved/stamped): (REQUIRED, IF EXISTS)
+		Data Side Mastering Code (laser branded/etched): PDSS-020865A1	1
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A04
 		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
 		Data Side Additional Mould: (REQUIRED, IF EXISTS)
 		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
