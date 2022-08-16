@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Jak II
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English, French, German, Spanish, Italian, Japanese, Korean
+	Language Selection Via: Options menu
+	Disc Serial: SCUS 97265
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-007235A1	2
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A05
+		Data Side Mould SID Code: IFPI QWB2
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QWB3
+	Barcode: 7 11719 72652 4
+	EXE/Build Date: 2003-08-25
+	Comments:
+
+[T:ISN] SCUS-97265
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 30 38 32 36 30 35 35  32 35 30 30 30 24 30 30   3082605525000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4410671104
+	CRC32: 8f208aa3
+	MD5: 2544e1a72a4769ea707244e0c7a9a072
+	SHA1: 6fbe90e0b1317cdba8c19220939f9d4cc2328ea2

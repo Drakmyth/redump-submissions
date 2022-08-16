@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Katamari Damacy
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21008
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-013455A1	4
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: IFPI QWA0
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QWA1
+	Barcode: 7 22674 10024 3
+	EXE/Build Date: 2004-08-09
+	Comments:
+
+[T:ISN] SLUS-21008
+[T:VOL] KATAMARI
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 34 30 38 31 32 31 32 32  36 33 34 30 30 24 30 30   4081212263400$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 3158212608
+	CRC32: e8ca0330
+	MD5: f24b383424d17c837cb625ebdbfe4592
+	SHA1: e661900e37b23497c24e2464484c53d0d569a362
