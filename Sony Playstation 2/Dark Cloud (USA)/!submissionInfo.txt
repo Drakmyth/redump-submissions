@@ -15,9 +15,9 @@ Common Disc Info:
 		Data Side Mastering Code (laser branded/etched): PDSS-000155A1	2
 		Data Side Mastering SID Code: 
 		Data Side Toolstamp or Mastering Code (engraved/stamped): A03
-		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
-		Data Side Additional Mould: (REQUIRED, IF EXISTS)
-		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: 
 	Barcode: 7 11719 71112 4
 	EXE/Build Date: 2001-05-11
 	Comments:

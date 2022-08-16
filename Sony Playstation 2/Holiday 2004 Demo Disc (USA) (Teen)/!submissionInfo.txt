@@ -15,9 +15,9 @@ Common Disc Info:
 		Data Side Mastering Code (laser branded/etched): SCUS-97456	1
 		Data Side Mastering SID Code: 
 		Data Side Toolstamp or Mastering Code (engraved/stamped): 
-		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
-		Data Side Additional Mould: (REQUIRED, IF EXISTS)
-		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 45T5
+		Label Side Mould SID Code: 
 	Barcode: 
 	EXE/Build Date: 2004-04-21
 	Comments:

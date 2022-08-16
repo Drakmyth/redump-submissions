@@ -15,9 +15,9 @@ Common Disc Info:
 		Data Side Mastering Code (laser branded/etched): PDSS-000205A1	6
 		Data Side Mastering SID Code: IFPI L332
 		Data Side Toolstamp or Mastering Code (engraved/stamped): A12
-		Data Side Mould SID Code: (REQUIRED, IF EXISTS)
-		Data Side Additional Mould: (REQUIRED, IF EXISTS)
-		Label Side Mould SID Code: (REQUIRED, IF EXISTS)
+		Data Side Mould SID Code: IFPI QW9A
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW9B
 	Barcode: 7 10425 27300 1
 	EXE/Build Date: 2001-10-07
 	Comments:
