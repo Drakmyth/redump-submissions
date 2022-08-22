@@ -1,0 +1,55 @@
+Common Disc Info:
+	Title: Midnight Club 3: DUB Edition Remix
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-9
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21355GH
+
+	Ringcode Information:
+		Layer 0 (Outer) Mastering Code (laser branded/etched): PDDL-022445A1	2
+		Layer 0 (Outer) Mastering SID Code: IFPI L332
+		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): E07
+		Data Side Mould SID Code: IFPI QW72
+		Data Side Additional Mould: 
+		Layer 1 (Inner) Mastering Code (laser branded/etched): PDDL-022445B1	1
+		Layer 1 (Inner) Mastering SID Code: IFPI L332
+		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): E14
+		Label Side Mould SID Code: IFPI QW73
+	Barcode: 7 10425 27934 8
+	EXE/Build Date: 2005-11-02
+	Comments:
+
+[T:ISN] SLUS-21355
+[T:VOL] MC3REMIX
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Greatest Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 35 31 31 30 38 31 35 33  31 33 32 30 30 24 30 30   5110815313200$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Layerbreak: 2084960
+	Size: 8539963392
+	CRC32: cf95ca5f
+	MD5: 42da9aaf83e1e5303de5634ed8f13bce
+	SHA1: ac1ce1a1c07cf3252fecb0c8f9a5ed710722153d
