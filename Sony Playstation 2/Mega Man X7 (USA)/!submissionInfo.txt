@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Mega Man X7
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 20487
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-004395A1	1
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A07
+		Data Side Mould SID Code: IFPI QW7A
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW7B
+	Barcode: 0 13388 26020 1
+	EXE/Build Date: 2003-09-01
+	Comments:
+
+[T:ISN] SLUS-20487
+[T:VOL] MEGAMAN_X7
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 30 39 30 31 31 36 31  36 33 39 30 30 24 30 30   3090116163900$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1273069568
+	CRC32: f072e2c9
+	MD5: bdab95caabaca03e49cfdc3803f14af5
+	SHA1: 60edadd39e8a9a68294d6860e25509744ee5ef12
