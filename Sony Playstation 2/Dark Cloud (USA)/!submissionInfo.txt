@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Dark Cloud
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SCUS 97111
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-000155A1	2
+		Data Side Mastering SID Code: 
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A03
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: 
+	Barcode: 7 11719 71112 4
+	EXE/Build Date: 2001-05-11
+	Comments:
+
+[T:ISN] SCUS-97111
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 31 30 35 31 31 31 36 33  37 34 33 30 30 24 30 30   1051116374300$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1797980160
+	CRC32: fe4adb70
+	MD5: b500237e456cd2722cf9189b7b34ad0a
+	SHA1: ff3d6656b1403aae3156e5600f1aef1489d704b9

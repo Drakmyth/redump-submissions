@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Holiday 2004 Demo Disc
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SCUS-97456
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): SCUS-97456	1
+		Data Side Mastering SID Code: 
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 45T5
+		Label Side Mould SID Code: 
+	Barcode: 
+	EXE/Build Date: 2004-04-21
+	Comments:
+
+[T:ISN] SCUS-97456
+[T:VOL] SCUS_97456
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Demo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 34 30 39 32 34 31 36 33  39 30 36 30 30 24 30 30   4092416390600$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 2416607232
+	CRC32: 82d67f25
+	MD5: 8f6ac75cc79507b96875210b54ba2570
+	SHA1: f23bbea7e1a36ed0d2a6395e16a03d272610e611
