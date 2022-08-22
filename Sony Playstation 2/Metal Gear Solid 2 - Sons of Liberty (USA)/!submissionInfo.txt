@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Metal Gear Solid 2: Sons of Liberty
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 20144
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-000615A1	2
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): B04
+		Data Side Mould SID Code: IFPI QW10
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW11
+	Barcode: 0 83717 20021 5
+	EXE/Build Date: 2001-09-27
+	Comments:
+
+[T:ISN] SLUS-20144
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 31 30 39 32 37 32 32 31  37 33 38 30 30 24 30 30   1092722173800$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4620910592
+	CRC32: 576e3d2c
+	MD5: 9f4a571b5bd78bcba19b2a4e8f8d7359
+	SHA1: f5ea9c94b0b1429e3608bffead48193c206f778c
