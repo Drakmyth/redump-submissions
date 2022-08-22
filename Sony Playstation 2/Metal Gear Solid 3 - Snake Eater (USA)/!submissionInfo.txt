@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Metal Gear Solid 3: Snake Eater
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 20915
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-011925A1	4
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: IFPI QW9C
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW9D
+	Barcode: 0 83717 20073 4
+	EXE/Build Date: 2004-10-29
+	Comments:
+
+[T:ISN] SLUS-20915
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 34 31 30 33 30 31 36 35  36 30 35 30 30 24 30 30   4103016560500$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 4558848000
+	CRC32: ab641e5c
+	MD5: 10310a8e67b7f6c43616e0886bdc973c
+	SHA1: 818e30d52feaf134ecb0ccc306efebc16022f5e8
