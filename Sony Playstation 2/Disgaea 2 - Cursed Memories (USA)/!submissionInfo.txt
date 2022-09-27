@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Disgaea 2: Cursed Memories
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21397
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-022905A1	1
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A08
+		Data Side Mould SID Code: IFPI QW94
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW95
+	Barcode: 8 57823 00106 2
+	EXE/Build Date: 2006-07-12
+	Comments:
+
+[T:ISN] SLUS-21397
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 30 37 31 32 31 39 32  38 34 39 30 30 24 30 30   6071219284900$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1428619264
+	CRC32: 5ac689a2
+	MD5: c7619f588fb8f7faaee072f7064a30c1
+	SHA1: 149369943f17ce3635eb2bfd72c19b134233bc9d

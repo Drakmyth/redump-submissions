@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: Dance Dance Revolution X
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 21767
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-030725A1	4
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 
+		Data Side Mould SID Code: IFPI 72C1
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 72C2
+	Barcode: 0 83717 20177 9
+	EXE/Build Date: 2008-07-15
+	Comments:
+
+[T:ISN] SLUS-21767
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 37 31 35 31 37 34  35 30 30 30 30 24 30 30   8071517450000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1414660096
+	CRC32: 10be6d56
+	MD5: faee77d6fdca15b6ef6d02176a12ce26
+	SHA1: 591dae5ad8f96741c58143c3c6b945e72f92ed21

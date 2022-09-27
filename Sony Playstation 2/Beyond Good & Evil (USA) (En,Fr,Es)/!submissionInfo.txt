@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Beyond Good & Evil
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English, French, Spanish
+	Language Selection Via: Language selector
+	Disc Serial: SLUS 20763
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-008725A1	1
+		Data Side Mastering SID Code: IFPI L331
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+		Data Side Mould SID Code: IFPI QW88
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QW89
+	Barcode: 0 08888 32112 5
+	EXE/Build Date: 2003-10-11
+	Comments:
+
+[T:ISN] SLUS-20763
+[T:VOL] SLUS_20763
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 31 30 31 33 31 31 30  30 30 30 30 30 24 30 30   3101311000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 2070544384
+	CRC32: 0fc8d585
+	MD5: dbb65210e86adfa7adafa29912cfe851
+	SHA1: 59c33660ee43722c68c11db581bb7b36e9e73bd6

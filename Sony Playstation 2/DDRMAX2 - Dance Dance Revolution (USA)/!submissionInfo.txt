@@ -1,0 +1,50 @@
+Common Disc Info:
+	Title: DDRMAX2: Dance Dance Revolution
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SLUS 20711
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-008035A1	1
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: IFPI QW22
+		Data Side Additional Mould: (REQUIRED, IF EXISTS)
+		Label Side Mould SID Code: IFPI QW23
+	Barcode: 0 83717 20061 1
+	EXE/Build Date: 2003-07-22
+	Comments:
+
+[T:ISN] SLUS-20711
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 30 37 32 32 32 30 30  30 30 30 30 30 24 30 30   3072220000000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 1244823552
+	CRC32: 9288cf0f
+	MD5: 3f4e75097b8468c659334060cb973e16
+	SHA1: 733654e1ad657c30fe221d55a0d6e2c0062e0ecc
