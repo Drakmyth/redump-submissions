@@ -1,0 +1,51 @@
+Common Disc Info:
+	Title: Official U.S. PlayStation Magazine Issue 108
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 2
+	Media Type: DVD-ROM-5
+	Category: Games
+	Region: USA
+	Languages: English
+	Language Selection Via: 
+	Disc Serial: SCUS 97536
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): PDSS-021165A1	1
+		Data Side Mastering SID Code: IFPI L332
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 
+		Data Side Mould SID Code: IFPI 72C5
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 72C6
+	Barcode: 
+	EXE/Build Date: 2004-04-21
+	Comments:
+
+[T:ISN] SCUS-97536
+[T:VOL] SCUS_97536
+(OPTIONAL)
+
+	Contents: (OPTIONAL)
+
+Version and Editions:
+	Version: 1.00
+	Edition/Release: Demo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 30 36 31 39 30 39 34  38 30 30 30 30 24 30 30   6061909480000$00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+
+Size & Checksum:
+	Size: 2885091328
+	CRC32: dbfefc94
+	MD5: b813fa7ff4d1654a5bae42eb9dc98162
+	SHA1: 9e1c0913bea43ec12cf0624681b1d302979783e6
